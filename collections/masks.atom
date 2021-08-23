@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/masks.atom"/>
+  <title>Feel Pure</title>
+  <updated>2021-02-07T19:05:59-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/6065558945955</id>
+    <published>2021-02-07T19:05:59-05:00</published>
+    <updated>2021-02-07T19:05:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-astm-level-3-medical-mask"/>
+    <title>3 PLY ASTM Level 3 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_362a8270-0f03-4d80-a42b-802b7994a94c.jpg?v=1612742761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            143.75 - 999.59
+            <a href="https://www.feelpure.ca/products/3-ply-astm-level-3-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 99.4%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spread: Class 1</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 3</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results</s:tag>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku>MASK-L3MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>10 Box Pack</title>
+      <s:price currency="CAD">274.89</s:price>
+      <s:sku>MASK-L3MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>20 Box Pack</title>
+      <s:price currency="CAD">524.99</s:price>
+      <s:sku>MASK-L3MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>40 Box Pack</title>
+      <s:price currency="CAD">999.59</s:price>
+      <s:sku>MASK-L3MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527940497571</id>
+    <published>2021-02-02T15:39:40-05:00</published>
+    <updated>2021-02-02T15:39:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-astm-level-2-medical-mask"/>
+    <title>3 PLY ASTM Level 2 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1.jpg?v=1612742706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            118.75 - 799.59
+            <a href="https://www.feelpure.ca/products/3-ply-astm-level-2-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 99.4%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spread: Class 1</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 2</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results</s:tag>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">118.75</s:price>
+      <s:sku>MASK-L2MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>10 Box Pack</title>
+      <s:price currency="CAD">224.90</s:price>
+      <s:sku>MASK-L2MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>20 Box Pack</title>
+      <s:price currency="CAD">424.99</s:price>
+      <s:sku>MASK-L2MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>40 Box Pack</title>
+      <s:price currency="CAD">799.59</s:price>
+      <s:sku>MASK-L2MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5905388601507</id>
+    <published>2020-12-03T23:44:58-05:00</published>
+    <updated>2020-12-03T23:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/feel-pure-blue-black-3ply-premium-comfort-masks"/>
+    <title>Feel Pure Blue &amp; Black 3PLY Premium Comfort Masks</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/feelpure-masks_blue_manequin1_6ff0ad9e-f53c-42fc-9b3b-788024e1cd05.jpg?v=1613083002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            27.45 - 1395.99
+            <a href="https://www.feelpure.ca/products/feel-pure-blue-black-3ply-premium-comfort-masks">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Masks are made with a form-fitting pliable nose and chin band.</p>
+<ul>
+<li>99% of Bacteria Filtration Efficiency </li>
+<li>Quantity per box: 50 pcs  </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CivilMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>5 Box Pack / Blue</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>Mask-FPMaskBlu-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>5 Box Pack / Black</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>Mask-FPMaskBlk-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>20 Box Pack / Blue</title>
+      <s:price currency="CAD">99.80</s:price>
+      <s:sku>Mask-FPMaskBlu-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>20 Box Pack / Black</title>
+      <s:price currency="CAD">99.80</s:price>
+      <s:sku>Mask-FPMaskBlk-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>40 Box Pack / Blue</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>Mask-FPMaskBlu-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>40 Box Pack / Black</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>Mask-FPMaskBlk-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>200 Box Pack / Blue</title>
+      <s:price currency="CAD">797.99</s:price>
+      <s:sku>Mask-FPMaskBlu-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>200 Box Pack / Black</title>
+      <s:price currency="CAD">797.99</s:price>
+      <s:sku>Mask-FPMaskBlk-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>400 Box Pack / Blue</title>
+      <s:price currency="CAD">1395.99</s:price>
+      <s:sku>Mask-FPMaskBlu-400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>400 Box Pack / Black</title>
+      <s:price currency="CAD">1395.99</s:price>
+      <s:sku>Mask-FPMaskBlk-400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5538206974115</id>
+    <published>2020-10-07T13:56:16-04:00</published>
+    <updated>2020-10-07T13:56:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/kids-disposable-3-ply-facemask"/>
+    <title>Kids Disposable 3 Ply Facemask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/kids.jpg?v=1612743382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            27.45 - 1395.99
+            <a href="https://www.feelpure.ca/products/kids-disposable-3-ply-facemask">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Not all masks are made the same! Our 3 Ply Kids Masks are made specially to fit kids' smaller faces to ensure proper protection and a comfortable fit.</span></p>
+<p><span>1 Box contains 50 Masks.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CivilMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>Mask-3plyKidMask-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>1/2 Case - 20 Box Pack</title>
+      <s:price currency="CAD">99.79</s:price>
+      <s:sku>Mask-3plyKidMask-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>1 Case - 40 Boxes</title>
+      <s:price currency="CAD">179.59</s:price>
+      <s:sku>Mask-3plyKidMask-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>5 Cases - 200 Boxes</title>
+      <s:price currency="CAD">797.99</s:price>
+      <s:sku>Mask-3plyKidMask-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>10 Cases - 400 Boxes</title>
+      <s:price currency="CAD">1395.99</s:price>
+      <s:sku>Mask-3plyKidMask-400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527934599331</id>
+    <published>2020-09-04T14:09:28-04:00</published>
+    <updated>2020-09-04T14:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-level-1-medical-mask"/>
+    <title>3 PLY ASTM Level 1 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_2521b721-9ed8-463c-a897-a062ad6da61a.jpg?v=1612742644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            93.75 - 599.59
+            <a href="https://www.feelpure.ca/products/3-ply-level-1-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 95%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 1</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>5 Boxes</title>
+      <s:price currency="CAD">93.75</s:price>
+      <s:sku>MASK-L1MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>10 Boxes</title>
+      <s:price currency="CAD">174.89</s:price>
+      <s:sku>MASK-L1MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>20 Boxes</title>
+      <s:price currency="CAD">324.99</s:price>
+      <s:sku>MASK-L1MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>40 Boxes</title>
+      <s:price currency="CAD">599.59</s:price>
+      <s:sku>MASK-L1MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527927095459</id>
+    <published>2020-08-12T01:09:18-04:00</published>
+    <updated>2020-08-12T01:09:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-premium-civil-mask"/>
+    <title>3 PLY Premium Civil Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_553d6ba6-c362-475c-af43-d4a9f2198903.jpg?v=1612742832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            24.95 - 2792.99
+            <a href="https://www.feelpure.ca/products/3-ply-premium-civil-mask">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our disposable 3-ply Civil Masks are suitable for procedures with low amounts of blood, fluid, spray or aerosol exposure.</p>
+<p>Masks are made with a form fitting pliable nose and chin band.</p>
+<ul>
+<li>Hypoallergenic and latex free</li>
+<li>Filtration efficiency greater than 95%</li>
+<li>Fluid resistant</li>
+<li>Dimensions: 180mm x 90mm</li>
+<li>Not tested for medical use</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CivilMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527927095459</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MASK-PREMCIVMASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527927095459</id>
+      <title>1/2 Case - 35 Boxes</title>
+      <s:price currency="CAD">166.25</s:price>
+      <s:sku>MASK-PREMCIVMASK-035PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527927095459</id>
+      <title>1 Case - 70 Boxes</title>
+      <s:price currency="CAD">314.30</s:price>
+      <s:sku>MASK-PREMCIVMASK-070PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527927095459</id>
+      <title>5 Cases - 350 Boxes</title>
+      <s:price currency="CAD">1487.49</s:price>
+      <s:sku>MASK-PREMCIVMASK-350PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527927095459</id>
+      <title>10 Cases - 700 Boxes</title>
+      <s:price currency="CAD">2792.99</s:price>
+      <s:sku>MASK-PREMCIVMASK-700PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5526956736675</id>
+    <published>2020-08-11T18:26:11-04:00</published>
+    <updated>2020-08-11T18:26:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/kn95-civil-mask"/>
+    <title>KN95 Civil Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/kn95-1_6969932e-c666-43df-bf6f-0b3db1a035b7.jpg?v=1612742562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            49.49 - 78.99
+            <a href="https://www.feelpure.ca/products/kn95-civil-mask">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High Protective disinfection face mask, advanced anti-particulate matter filtration technology, and anti-bacterial environmental protection fabric to protect and filter M2.5 air particulate matter and bacteria.</p>
+<p>The masks are wrapped individually by a pack of two. KN95 3D High protective disinfection masks have a 3D design to maintain breathable space and it uses adjustable nose bridge strips to obtain the best fit with the shape of the face. It is recommended to replace it every 4 hours. Do not wash it with water and do not reuse it. Children under 3 years old are not advised to use this mask for a low vital capacity.</p>
+<p>Each pack comes with instructions on how to use the mask.</p>
+<ul>
+<li>Storage tempreture: 20-30 degrees</li>
+<li>Storage humidity: &lt;80%</li>
+<li>Shelf life: 3 years</li>
+<li>With CE and FDA</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spreak: Class 1</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results-1</s:tag>
+    <s:tag>CivilMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5526956736675</id>
+      <title>50 Masks</title>
+      <s:price currency="CAD">49.49</s:price>
+      <s:sku>Mask-KN95CivMask-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5526956736675</id>
+      <title>100 Masks</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku>Mask-KN95CivMask-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

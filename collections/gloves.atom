@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/gloves.atom"/>
+  <title>Feel Pure</title>
+  <updated>2021-02-07T19:22:26-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5529031049379</id>
+    <published>2021-02-07T19:22:26-05:00</published>
+    <updated>2021-02-07T19:22:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/nitrile-non-medical-gloves"/>
+    <title>Nitrile Non-Medical Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/non-med.jpg?v=1612743808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            119.95 - 4997.49
+            <a href="https://www.feelpure.ca/products/nitrile-non-medical-gloves">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Powder Free</li>
+<li>Latex Free</li>
+<li>ASTM Certified</li>
+<li>Strong puncture resistance while maintaining tactile sensitivity</li>
+<li>Maximum comfort and stretch</li>
+<li>Full-hand texture for precision in wet and dry conditions</li>
+<li>Beaded cuff for added strength and easier Ambidextrous Use</li>
+<li>Sizes from small to extra large</li>
+</ul>
+<p>***Due to shortage of supply, we cannot guarantee the color or box of the gloves being shipped will be as illustrated. We can only guarantee that you will receive the right size and type of glove as per your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Small</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Medium</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Large</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Extra Large</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Small</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Medium</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Large</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Extra Large</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Small</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Medium</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Large</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Extra Large</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Small</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Medium</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Large</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Extra Large</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Small</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Medium</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Extra Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Small</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Medium</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Large</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Extra Large</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527015227555</id>
+    <published>2021-02-07T19:21:03-05:00</published>
+    <updated>2021-02-07T19:21:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/nitrile-medical-gloves"/>
+    <title>Nitrile Medical Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/non-med_3f4ab65e-1b69-4681-b7af-871b316bc53a.jpg?v=1612743465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            124.95 - 2098.99
+            <a href="https://www.feelpure.ca/products/nitrile-medical-gloves">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ideal for heavy duty jobs and for use by first responders, these gloves are thick and durable (11.0 mils thick at the palm, 14.2 mils thick at the fingers). Made of soft, elastic latex, they feel comfortable even after hours of wear. Their extended cuff offers keep wrists and forearms protected in the event of a splash when handling hazardous materials such as paints, solvents or cleansers. Textured fingers prevent slips when handling tools and materials.</p>
+<p>These tough, blue gloves meet the emergency medical glove requirements set forth by the National Fire Protection Association (NFPA 1999). Designed with advanced materials formulations and proprietary technologies, these disposable gloves offer unique benefits like superior dexterity and grip, enhanced chemical resistance, and improved hand health.</p>
+<p>Sizes range from small to XL. Sold in boxes of 100.</p>
+<p> </p>
+<p>***Due to shortage of supply, we cannot guarantee the color or box of the gloves being shipped will be as illustrated. We can only guarantee that you will receive the right size and type of glove as per your order.</p>
+<ul>
+<li><span>Powder Free</span></li>
+<li><span>Latex Free</span></li>
+<li><span>Textured Fingertips</span></li>
+<li><span>Medical, Food &amp; Home uses</span></li>
+<li><span>Strong and tear resistant</span></li>
+<li><span>Cool Blue Color</span></li>
+<li><span>Ambidextrous</span></li>
+<li><span>Enhanced Comfort</span></li>
+<li><span>Sizes from small to extra large</span></li>
+<li><span>Brand and colour may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Small</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedS-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Medium</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedM-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Large</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Extra Large</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Small</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedS-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Medium</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedM-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Large</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Extra Large</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Small</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedS-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Medium</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedM-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Large</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Extra Large</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Small</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedS-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Medium</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedM-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Large</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Extra Large</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Small</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedS-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Medium</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedM-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Extra Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5528883527843</id>
+    <published>2020-08-12T05:15:46-04:00</published>
+    <updated>2020-08-12T05:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/vinyl-gloves"/>
+    <title>Vinyl Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/vinyl.jpg?v=1612745020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            179.99 - 3622.49
+            <a href="https://www.feelpure.ca/products/vinyl-gloves">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vinyl is a synthetic material made from polyvinyl chloride (PVC). It is less elastic than nitrile and latex, giving it a looser fit and a smooth, comfortable feel. It helps prevent allergic reactions to latex proteins.</p>
+<p>These clear disposable gloves are a great fit for food service, hair salon, janitorial, and other light industrial applications. Powder-free gloves leave no residue, reducing the risk of contamination compared to a powdered glove. The gloves are 4 mils thick around the palm and fingers, as well as 9.5 inches from the tip of the finger to the cuff of the glove.</p>
+<p>Sizes range from small to XL. Sold in boxes of 100.</p>
+<p> </p>
+<p>***Due to shortage of supply, we cannot guarantee the color or box of the gloves being shipped will be as illustrated. We can only guarantee that you will receive the right size and type of glove as per your order.</p>
+<ul>
+<li>Clear</li>
+<li>Industrial grade multi purpose gloves</li>
+<li>Powder Free</li>
+<li>Latex Free</li>
+<li>Smooth finish</li>
+<li>Loose fit and comfortable feel</li>
+<li>Low-cost solution for a variety of applications</li>
+<li>Sizes from small to extra large</li>
+<li>Meets EN455 and EN374 Standards</li>
+<li>Brand and colour may vary</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>10 Boxes / Small</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiS-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>10 Boxes / Medium</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiM-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>10 Boxes / Large</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>10 Boxes / Extra Large</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiXL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>50 Boxes / Small</title>
+      <s:price currency="CAD">849.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiS-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>50 Boxes / Medium</title>
+      <s:price currency="CAD">849.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiM-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>50 Boxes / Large</title>
+      <s:price currency="CAD">849.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>50 Boxes / Extra Large</title>
+      <s:price currency="CAD">849.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiXL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>100 Boxes / Small</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiS-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>100 Boxes / Medium</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiM-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>100 Boxes / Large</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>100 Boxes / Extra Large</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku>Glvs-VinylGloveMultiXL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>250 Boxes / Small</title>
+      <s:price currency="CAD">3622.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiS-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>250 Boxes / Medium</title>
+      <s:price currency="CAD">3622.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiM-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>250 Boxes / Large</title>
+      <s:price currency="CAD">3622.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiL-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5528883527843</id>
+      <title>250 Boxes / Extra Large</title>
+      <s:price currency="CAD">3622.49</s:price>
+      <s:sku>Glvs-VinylGloveMultiXL-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

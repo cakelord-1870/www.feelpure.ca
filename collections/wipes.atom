@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/wipes.atom"/>
+  <title>Feel Pure</title>
+  <updated>2020-09-03T07:52:43-04:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5622758047907</id>
+    <published>2020-09-03T07:52:43-04:00</published>
+    <updated>2020-09-03T07:52:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/70-alcohol-wipe-pads-100-pcs-per-box"/>
+    <title>70% Alcohol Wipe pads 100/Pack</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/wipes_4.jpg?v=1612623485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            144.95 - 1099.60
+            <a href="https://www.feelpure.ca/products/70-alcohol-wipe-pads-100-pcs-per-box">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span data-mce-fragment="1"> Size: 6 x 3cm (x 50pcs)</span></li>
+<li><span data-mce-fragment="1">70% Isopropyl Alcohol</span></li>
+<li><span data-mce-fragment="1">Quantity: 100 wipes per pack</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>5 Box pack</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>10 Box pack</title>
+      <s:price currency="CAD">284.90</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>20 Box pack</title>
+      <s:price currency="CAD">559.80</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>40 Box pack</title>
+      <s:price currency="CAD">1099.60</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5594857799843</id>
+    <published>2020-08-26T16:30:34-04:00</published>
+    <updated>2020-08-26T16:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/steriwipes-virucidal-wipes-disenfectant-wipes-no-fregrance-160-wipes-per-tub"/>
+    <title>SteriWipes Virucidal Wipes Disenfectant wipes no Fragrance 160 wipes per tub</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/steri-1_f51cf77d-7b66-4cdb-afd0-661ae1dccf80.jpg?v=1612745193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            99.95 - 1798.99
+            <a href="https://www.feelpure.ca/products/steriwipes-virucidal-wipes-disenfectant-wipes-no-fregrance-160-wipes-per-tub">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>160 wipes per tub</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>easy open dispenser top</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>5 Tub Pack</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>Wipe-SteriWipe160-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>10 Tub Pack</title>
+      <s:price currency="CAD">194.90</s:price>
+      <s:sku>Wipe-SteriWipe160-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>25 Tub Pack</title>
+      <s:price currency="CAD">474.75</s:price>
+      <s:sku>Wipe-SteriWipe160-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>50 Tub Pack</title>
+      <s:price currency="CAD">924.49</s:price>
+      <s:sku>Wipe-SteriWipe160-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>100 Tub Pack</title>
+      <s:price currency="CAD">1798.99</s:price>
+      <s:sku>Wipe-SteriWipe160-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5559382245539</id>
+    <published>2020-08-18T18:01:15-04:00</published>
+    <updated>2020-08-18T18:01:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/e-co-70-isopropyl-alcohol-cleaning-wipes-50-box"/>
+    <title>E-Co 70% Isopropyl Alcohol Cleaning Wipes 50/Box</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/alcohol-wipes1.jpg?v=1612623463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            83.70 - 519.60
+            <a href="https://www.feelpure.ca/products/e-co-70-isopropyl-alcohol-cleaning-wipes-50-box">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Size:</strong> 5" x 6" (x 50pcs)</span></p>
+<p><span>70% Isopropyl Alcohol</span></p>
+<p><span><strong>Quantity:</strong> 50 wipes per pack</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>5 Box pack</title>
+      <s:price currency="CAD">83.70</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>10 Box pack</title>
+      <s:price currency="CAD">154.90</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>20 Box pack</title>
+      <s:price currency="CAD">284.80</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>40 Box pack</title>
+      <s:price currency="CAD">519.60</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

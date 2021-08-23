@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/disinfectants-alcohol.atom"/>
+  <title>Feel Pure</title>
+  <updated>2020-12-03T20:49:21-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527241425059</id>
+    <published>2020-12-03T20:49:21-05:00</published>
+    <updated>2020-12-03T20:49:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/1l-isopropyl-alcohol-1"/>
+    <title>1L Isopropyl Alcohol</title>
+    <s:type>Disinfectants &amp; Alcohol</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/1LIsopropylAlcohol_1bottle.jpg?v=1612741831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Disinfectants &amp; Alcohol<br>
+        <strong>Price: </strong>
+            103.44 - 2248.50
+            <a href="https://www.feelpure.ca/products/1l-isopropyl-alcohol-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MG Chemicals Isopropyl Alcohol Electronics Cleaner. Safe on most plastics. 99.9 Percent pure anhydrous.</p>
+<p>Meets Mil. spec. #TT-1-735A. <br>For use on: PC boards, connectors and contacts, semi-conductors, printed circuit boards, tape heads, light oils, office and medical equipment, relays, flux. <br>Color: Clear. <br>Purity: 99.9 percent by weight. <br>Refract. Index: 1.3766 (20 C.). <br>Water: 0.01 percent by weight. <br>Specific gravity: 0.7832 (25/25 C). <br>Nonvol: 0.0 mg/50mL. <br>Titratable acid: 0.13mL 02nNaOH. <br>Size: 945mL bottle.</p>
+<p>RoHS Compliant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>6 Bottles</title>
+      <s:price currency="CAD">103.44</s:price>
+      <s:sku>Alco-MGAlc1L-006pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>24 Bottles</title>
+      <s:price currency="CAD">395.76</s:price>
+      <s:sku>Alco-MGAlc1L-024pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>90 Bottles</title>
+      <s:price currency="CAD">1416.60</s:price>
+      <s:sku>Alco-MGAlc1L-090pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>150 Bottles</title>
+      <s:price currency="CAD">2248.50</s:price>
+      <s:sku>Alco-MGAlc1L-150pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5746235703459</id>
+    <published>2020-10-07T18:26:40-04:00</published>
+    <updated>2020-10-07T18:26:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/feel-pure-atomizer"/>
+    <title>Feel Pure Atomizer</title>
+    <s:type>Disinfectants &amp; Alcohol</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/FeelPureNeutralizer_1.jpg?v=1612741999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Disinfectants &amp; Alcohol<br>
+        <strong>Price: </strong>
+            159.98 - 599.90
+            <a href="https://www.feelpure.ca/products/feel-pure-atomizer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Feel Pure Atomizer is equipped with 6 strong UV blue light rays, effectively assisting the disinfecting function by destroying viruses and bacteria. The mist sprayer disperses the disinfectant liquid ingredients more effectively to kill bacteria.</span></p>
+<ul>
+<li><span data-mce-fragment="1">99.9% Disinfection Rate</span></li>
+<li><span data-mce-fragment="1">Large 800ml Capacity</span></li>
+<li><span data-mce-fragment="1">6 Strong UV Blue Light Rays</span></li>
+<li><span data-mce-fragment="1">Adjustable Sprayer</span></li>
+<li><span data-mce-fragment="1">Easy to Use</span></li>
+<li><span data-mce-fragment="1">Rechargeable</span></li>
+<li><span data-mce-fragment="1">99.9% Disinfection Rate</span></li>
+<li><span data-mce-fragment="1">Electrostatic Technology</span></li>
+<li><span data-mce-fragment="1">Perfect to Kill &amp; Stay Safe From Covid-19</span></li>
+<li><span data-mce-fragment="1">Peace of Mind</span></li>
+<li><span data-mce-fragment="1">Fast &amp; Effortless Sanitation</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5746235703459</id>
+      <title>2 Atomizers</title>
+      <s:price currency="CAD">159.98</s:price>
+      <s:sku>Alco-SprygnAtmzr-002pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5746235703459</id>
+      <title>5 Atomizers</title>
+      <s:price currency="CAD">349.95</s:price>
+      <s:sku>Alco-SprygnAtmzr-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5746235703459</id>
+      <title>10 Atomizers</title>
+      <s:price currency="CAD">599.90</s:price>
+      <s:sku>Alco-SprygnAtmzr-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527906812067</id>
+    <published>2020-08-12T01:00:37-04:00</published>
+    <updated>2020-08-12T01:00:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/diversey-disinfectant-concentrate"/>
+    <title>Diversey Disinfectant Concentrate</title>
+    <s:type>Disinfectants &amp; Alcohol</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/morning-mist_2-large.jpg?v=1612741688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Disinfectants &amp; Alcohol<br>
+        <strong>Price: </strong>
+            78.12 - 1743.00
+            <a href="https://www.feelpure.ca/products/diversey-disinfectant-concentrate">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morning Mist™ pH Neutral Cleaner is a phosphate-free disinfectant that cleans and deodorizes hard environmental surfaces like floors, walls, and glazed ceramic tile. Neither alkaline nor acidic, Morning Mist™ is a quaternary-based disinfectant that kills more than 99.9% viruses and bacteria including MRSA and VRE when used as directed. The non-foaming pH neutral floor and surface cleaner won’t leave a film and doesn’t require extra rinsing, making your job that much easier. Morning Mist™ is ideal for buildings, offices, schools, childcare centers, and restaurants who want clean floors and restrooms, but also want surfaces and spaces to smell fresh. It’s all about creating a great impression.</p>
+<ul>
+<li>Phosphate-free</li>
+<li>Non-foaming</li>
+<li>Non-alkaline</li>
+<li>General cleaner and disinfectant</li>
+<li>Fresh scent</li>
+<li>Ideal for large surfaces</li>
+</ul>
+<hr>
+<p><strong>The product is sold in capsules which need to be mixed in 1L of water. Spray bottle not included.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527906812067</id>
+      <title>1 Case Pack [28pcs]</title>
+      <s:price currency="CAD">78.12</s:price>
+      <s:sku>Alco-DMMConc-028pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527906812067</id>
+      <title>5 Case Pack [140pcs]</title>
+      <s:price currency="CAD">376.60</s:price>
+      <s:sku>Alco-DMMConc-140pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527906812067</id>
+      <title>10 Case Pack [280pcs]</title>
+      <s:price currency="CAD">725.20</s:price>
+      <s:sku>Alco-DMMConc-280pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527906812067</id>
+      <title>25 Case Pack [700pcs]</title>
+      <s:price currency="CAD">1743.00</s:price>
+      <s:sku>Alco-DMMConc-700pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

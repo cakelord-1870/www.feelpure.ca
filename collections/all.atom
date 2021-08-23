@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/all.atom"/>
+  <title>Feel Pure</title>
+  <updated>2021-02-09T19:06:18-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5529143050403</id>
+    <published>2021-02-09T19:06:18-05:00</published>
+    <updated>2021-02-09T19:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/germs-be-gone-60-ml-hand-sanitizer"/>
+    <title>Germs Be Gone 60 ML Hand Sanitizer</title>
+    <s:type>Sanitizer</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/germs-be-gone-2oz.jpg?v=1612915471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Sanitizer<br>
+        <strong>Price: </strong>
+            119.99 - 1823.99
+            <a href="https://www.feelpure.ca/products/germs-be-gone-60-ml-hand-sanitizer">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Germs Be Gone Hand Sanitizer contains 65% ethyl alcohol and is enriched with Aloe &amp; Vitamin E to kills germs on contact. Prevent catching or spreading colds and flu with Hand Sanitizer, ideal for travel and when you cannot wash your hands. Use regularly clean hands and kill 99.99% germs and bacteria instantly. Say no to sticky residue and hello to soft and smooth hands!</p>
+<p>Apply a sufficient amount of the hand sanitizer to your hands, rub in well and allow your hands to dry. The quick-drying formula leaves your hands clean, fresh and germ-free. Children under 6 years of age should be supervised when using this product.</p>
+<p>Health Canada Approved &amp; Licenced Natural Product Number (NPN): 80021511</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>1 Case (96 Bottles)</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>SANI-GBG2OZ-096PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>5 Cases (480 Bottles)</title>
+      <s:price currency="CAD">551.99</s:price>
+      <s:sku>SANI-GBG2OZ-480PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>10 Cases (960 Bottles)</title>
+      <s:price currency="CAD">1007.99</s:price>
+      <s:sku>SANI-GBG2OZ-960PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>20 Cases (1,920 Bottles)</title>
+      <s:price currency="CAD">1823.99</s:price>
+      <s:sku>SANI-GBG2OZ-1920PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/6070005563555</id>
+    <published>2021-02-09T18:40:34-05:00</published>
+    <updated>2021-02-09T18:40:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/biorlx-aloe-vera-gel-with-paprika-witch-hazel-and-matcha-hot-gel"/>
+    <title>BioRLX Aloe Vera Gel with Paprika, Witch Hazel and Matcha-Hot Gel</title>
+    <s:type>Retail</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/biorlx-paprika-gel.jpg?v=1612913992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Retail<br>
+        <strong>Price: </strong>
+            29.98 - 77.94
+            <a href="https://www.feelpure.ca/products/biorlx-aloe-vera-gel-with-paprika-witch-hazel-and-matcha-hot-gel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*For Body *Buttocks *Belly Fat *Arm *Leg *Cruelty Free *Paraben FREE *NO Alcohol *Moisturizer *Excellent for Your Skin *Aloe Vera *Paprika *Witch Hazel *Matcha</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6070005563555</id>
+      <title>2 Pack</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku>Aloe-BioRLXRED-002-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6070005563555</id>
+      <title>6 Pack</title>
+      <s:price currency="CAD">77.94</s:price>
+      <s:sku>Aloe-BioRLXRED-002-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/6070005366947</id>
+    <published>2021-02-09T18:38:12-05:00</published>
+    <updated>2021-02-09T18:38:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/biorlx-99-purity-aloe-vera-gel-with-collagen-and-hyaluronic-acid"/>
+    <title>BioRLX 99% Purity Aloe Vera Gel with Collagen and Hyaluronic Acid</title>
+    <s:type>Retail</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/biorlx-aloe-gel.jpg?v=1612913892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Retail<br>
+        <strong>Price: </strong>
+            29.98 - 77.94
+            <a href="https://www.feelpure.ca/products/biorlx-99-purity-aloe-vera-gel-with-collagen-and-hyaluronic-acid">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This multi-functional soothing gel can be used on various body parts such as face, neck, arms, legs, and hair. BioRLX is proud to provide one of the best and highest quality Aloe Vera Gel on the market. This soothing gel is made from natural and pure ALOE VERA which rapidly absorbed by the skin for soothing and moisturizing effects and a refreshing sensation. This aloe vera gel gently hydrates your face, arms, legs, and hair. This magical formula will make your skin smooth and silky. </span></p>
+<p><span data-mce-fragment="1">Aloe Vera moisturizes and calms irritation due to sun exposure; hydrates and softens skin Non-comedogenic Supplements skin's moisture balance Heals and soothes sun and element exposed skin Relieves dry, itchy skin Promotes soft and youthful-looking skin Moisturizers rejuvenate and protect the epidermis Irritated skin is calmed The skin is cooled and refreshed The skin is soothed and nourished </span></p>
+<p><span data-mce-fragment="1">MULTIPURPOSE BEAUTY GEL FOR HEALTHY SKIN, HAIR &amp; SCALP Aloe vera's calming &amp; moisturizing properties have made it one of the world's best natural skin care ingredients. Using a special proprietary process, the BioRLX Aloe Vera Gel offers superior quality. BioRLX Aloe Vera Gel is made for everyday use to replenish your tired and dull skin with the nutrients you need and help you regain your youthful, glowing beauty. Our aloe vera gel unblocks your face's pores and helps to reduce acne recurrence. </span></p>
+<p><span data-mce-fragment="1">Moisturizes dry and damaged skin.+ Provides a refreshing care after sun.+ Soothes irritated skin.+ Suitable for massage.+ Suitable for all skin types.+ Suitable for daily use.+ Free of Paraben, silicone and colourant.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6070005366947</id>
+      <title>2 Pack</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku>Aloe-BioRLXGRN-002-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6070005366947</id>
+      <title>6 Pack</title>
+      <s:price currency="CAD">77.94</s:price>
+      <s:sku>Aloe-BioRLXGRN-006-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5866871816355</id>
+    <published>2021-02-09T18:31:08-05:00</published>
+    <updated>2021-02-09T18:31:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/steriwipes-virucidal-wipes-disenfectant-wipes-no-fragrance-160-wipes-per-tub-1-skid-250-tubs"/>
+    <title>SteriWipes Virucidal Wipes Disenfectant wipes no Fragrance 160 wipes per tub - 1 Skid (250 Tubs) $17.49/Tub</title>
+    <s:type>Skid</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/steri-1_c4afa833-dc37-4307-bceb-5f255a7bb68a.jpg?v=1612913475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Skid<br>
+        <strong>Price: </strong>
+            2497.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>160 wipes per tub</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>easy open dispenser top</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866871816355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2497.49</s:price>
+      <s:sku>Wipe-SteriWipe160-250pcs</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5756240036003</id>
+    <published>2021-02-09T18:23:20-05:00</published>
+    <updated>2021-02-09T18:23:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/germs-be-gone-236-ml-hand-sanitizer-1-skid"/>
+    <title>Germs Be Gone 236 ML Hand Sanitizer - 1 Skid (2,304 Bottles) $2.25/Bottle</title>
+    <s:type>Skid</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/new-germs-be-gone_1_no-pump_3d69f29d-3fc8-4b71-86e1-86a061297782.jpg?v=1605678295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Skid<br>
+        <strong>Price: </strong>
+            5183.99 - 5875.19
+            <a href="https://www.feelpure.ca/products/germs-be-gone-236-ml-hand-sanitizer-1-skid">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Germs Be Gone Hand Sanitizer contains<span> </span>75% ethyl alcohol and is enriched with Aloe &amp; Vitamin E to kills germs on contact. Prevent catching or spreading colds and flu with Hand Sanitizer, ideal for travel and when you cannot wash your hands. Use regularly clean hands and kill 99.99% germs and bacteria instantly. Say no to sticky residue and hello to soft and smooth hands!</p>
+<p>Apply a sufficient amount of the hand sanitizer to your hands, rub in well and allow your hands to dry. The quick-drying formula leaves your hands clean, fresh and germ-free. Children under 6 years of age should be supervised when using this product.</p>
+<ul>
+<li>Made in Canada</li>
+<li>Size: 236ML – 8OZ</li>
+<li>Kills 99.99% of bacteria fast</li>
+<li>75% Ethyl Alcohol</li>
+<li>Enriched with Aloe &amp; Vitamin E</li>
+<li>Antiseptic</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5756240036003</id>
+      <title>Pump</title>
+      <s:price currency="CAD">5875.19</s:price>
+      <s:sku>Sani-GBG8oz-2304PCS-P</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5756240036003</id>
+      <title>Squeeze</title>
+      <s:price currency="CAD">5183.99</s:price>
+      <s:sku>Sani-GBG8oz-2304PCS-S</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5750134538403</id>
+    <published>2021-02-09T18:14:02-05:00</published>
+    <updated>2021-02-09T18:14:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/kids-disposable-3-ply-facemask-skid"/>
+    <title>Kids Disposable 3 Ply Facemask</title>
+    <s:type>Skid</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/kids_7c19f063-b72c-42bd-aab9-9e178faf525b.jpg?v=1605164654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Skid<br>
+        <strong>Price: </strong>
+            2099.99 - 6999.99
+            <a href="https://www.feelpure.ca/products/kids-disposable-3-ply-facemask-skid">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Not all masks are made the same! Our 3 Ply Kids Masks are made specially to fit kids' smaller faces to ensure proper protection and a comfortable fit.</span></p>
+<p> 1 Box contains 50 Masks</p>
+<ul>
+<li><span>1 Skid = 1,400 Boxes - $1.50/Box </span></li>
+<li><span>3 Skids = 4,200 Boxes - $1.25/Box </span></li>
+<li><span>5 Skids = 7,000 Boxes - $1.00/Box</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5750134538403</id>
+      <title>1 Skid (1,400 Boxes - 70,000 Masks)</title>
+      <s:price currency="CAD">2099.99</s:price>
+      <s:sku>Mask-3plyKidMask-1400pcs</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5750134538403</id>
+      <title>3 Skids (4,200 Boxes - 210,000 Masks)</title>
+      <s:price currency="CAD">5249.99</s:price>
+      <s:sku>Mask-3plyKidMask-4200pcs</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5750134538403</id>
+      <title>5 Skids (7,000 Boxes - 350,000 Masks)</title>
+      <s:price currency="CAD">6999.99</s:price>
+      <s:sku>Mask-3plyKidMask-7000pcs</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5866907304099</id>
+    <published>2021-02-09T18:05:42-05:00</published>
+    <updated>2021-02-09T18:05:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/feel-pure-blue-black-3ply-premium-comfort-masks-1"/>
+    <title>Feel Pure Blue &amp; Black 3PLY Premium Comfort Masks</title>
+    <s:type>Skid</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/feelpure-masks_blue_manequin1.jpg?v=1605682716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Skid<br>
+        <strong>Price: </strong>
+            1273.59 - 19199.99
+            <a href="https://www.feelpure.ca/products/feel-pure-blue-black-3ply-premium-comfort-masks-1">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Masks are made with a form-fitting pliable nose and chin band. </p>
+<ul>
+<li>99% Bacteria Filtration Efficiency <br>
+</li>
+<li>1 Skid Contains 640 Boxes</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Blue / 1 Skid (640 Boxes - 32,000 Masks ) $1.99/Box</title>
+      <s:price currency="CAD">1273.59</s:price>
+      <s:sku>Mask-FPMaskBlu-640pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Blue / 3 Skids (1,920 Boxes - 96,000 Masks ) $1.75/Box</title>
+      <s:price currency="CAD">3359.99</s:price>
+      <s:sku>Mask-FPMaskBlu-1920pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Blue / 5 Skids (3,200 Boxes - 160,000 Masks ) $1.50/Box</title>
+      <s:price currency="CAD">4799.99</s:price>
+      <s:sku>Mask-FPMaskBlu-3200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Blue / 10 Skids (6,400 Boxes - 320,000 Masks) - $1.50/Box</title>
+      <s:price currency="CAD">9599.99</s:price>
+      <s:sku>Mask-FPMaskBlu-6400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Blue / 20 Skids (12,800 Boxes - 640,000 Masks) - $1.50/Box</title>
+      <s:price currency="CAD">19199.99</s:price>
+      <s:sku>Mask-FPMaskBlu-12800pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Black / 1 Skid (640 Boxes - 32,000 Masks ) $1.99/Box</title>
+      <s:price currency="CAD">1273.59</s:price>
+      <s:sku>Mask-FPMaskBlk-640pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Black / 3 Skids (1,920 Boxes - 96,000 Masks ) $1.75/Box</title>
+      <s:price currency="CAD">3359.99</s:price>
+      <s:sku>Mask-FPMaskBlk-1920pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Black / 5 Skids (3,200 Boxes - 160,000 Masks ) $1.50/Box</title>
+      <s:price currency="CAD">4799.99</s:price>
+      <s:sku>Mask-FPMaskBlk-3200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Black / 10 Skids (6,400 Boxes - 320,000 Masks) - $1.50/Box</title>
+      <s:price currency="CAD">9599.99</s:price>
+      <s:sku>Mask-FPMaskBlk-6400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5866907304099</id>
+      <title>Black / 20 Skids (12,800 Boxes - 640,000 Masks) - $1.50/Box</title>
+      <s:price currency="CAD">19199.99</s:price>
+      <s:sku>Mask-FPMaskBlk-12800pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5750073360547</id>
+    <published>2021-02-09T15:52:51-05:00</published>
+    <updated>2021-02-09T15:52:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-premium-civil-mask-1-skid-1-120-boxes"/>
+    <title>3 PLY Premium Civil Mask - 1 Skid (1,120 Boxes - 56,000 Masks) $3.49/box</title>
+    <s:type>Skid</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_2fa68ceb-d07d-4ed0-9f36-21b40ddca7d6.jpg?v=1602185670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Skid<br>
+        <strong>Price: </strong>
+            3908.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our disposable 3-ply Civil Masks are suitable for procedures with low amounts of blood, fluid, spray or aerosol exposure.</p>
+<p>Masks are made with a form fitting pliable nose and chin band.</p>
+<ul>
+<li>Hypoallergenic and latex free</li>
+<li>Filtration efficiency greater than 95%</li>
+<li>Fluid resistant</li>
+<li>Dimensions: 180mm x 90mm</li>
+<li>Not tested for medical use</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5750073360547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3908.79</s:price>
+      <s:sku>MASK-PREMCIVMASK-1120PCS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5750117105827</id>
+    <published>2021-02-09T14:58:48-05:00</published>
+    <updated>2021-02-09T14:58:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/medical-goggles-skid"/>
+    <title>Medical Goggles - 1 Skid (9,000 Goggles) $1.49/Pair</title>
+    <s:type>Skid</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/goggles-1_19cead5e-7850-4fda-8300-891731b06376.jpg?v=1602186695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Skid<br>
+        <strong>Price: </strong>
+            13409.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The goggles provide a full, unobstructed field of vision and can be worn with most half-mask respirators.</p>
+<p>The transparent protective PVC body permits a comfortable fit over prescription eyewear while protecting against impact and liquid splash hazards.</p>
+<ul>
+<li>Frame: Silicone</li>
+<li>Lens: Resin</li>
+<li>Anti Smog</li>
+<li>Anti Dust</li>
+<li>Anti Sling</li>
+<li>Anti Impact</li>
+<li>Anti Fog</li>
+<li>UV Protection</li>
+<li>With CE and FDA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5750117105827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13409.99</s:price>
+      <s:sku>Shld-MedGoggle-9000pcs</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5529031049379</id>
+    <published>2021-02-07T19:22:26-05:00</published>
+    <updated>2021-02-07T19:22:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/nitrile-non-medical-gloves"/>
+    <title>Nitrile Non-Medical Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/non-med.jpg?v=1612743808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            119.95 - 4997.49
+            <a href="https://www.feelpure.ca/products/nitrile-non-medical-gloves">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Powder Free</li>
+<li>Latex Free</li>
+<li>ASTM Certified</li>
+<li>Strong puncture resistance while maintaining tactile sensitivity</li>
+<li>Maximum comfort and stretch</li>
+<li>Full-hand texture for precision in wet and dry conditions</li>
+<li>Beaded cuff for added strength and easier Ambidextrous Use</li>
+<li>Sizes from small to extra large</li>
+</ul>
+<p>***Due to shortage of supply, we cannot guarantee the color or box of the gloves being shipped will be as illustrated. We can only guarantee that you will receive the right size and type of glove as per your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Small</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Medium</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Large</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>5 Box Pack / Extra Large</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Small</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Medium</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Large</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>10 Box Pack / Extra Large</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Small</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Medium</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Large</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>25 Box Pack / Extra Large</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Small</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Medium</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Large</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>50 Box Pack / Extra Large</title>
+      <s:price currency="CAD">1074.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Small</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Medium</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>100 Box Pack / Extra Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Small</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiS-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Medium</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiM-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Large</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiL-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529031049379</id>
+      <title>250 Box Pack / Extra Large</title>
+      <s:price currency="CAD">4997.49</s:price>
+      <s:sku>Glvs-NitrGloveMultiXL-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527015227555</id>
+    <published>2021-02-07T19:21:03-05:00</published>
+    <updated>2021-02-07T19:21:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/nitrile-medical-gloves"/>
+    <title>Nitrile Medical Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/non-med_3f4ab65e-1b69-4681-b7af-871b316bc53a.jpg?v=1612743465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            124.95 - 2098.99
+            <a href="https://www.feelpure.ca/products/nitrile-medical-gloves">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ideal for heavy duty jobs and for use by first responders, these gloves are thick and durable (11.0 mils thick at the palm, 14.2 mils thick at the fingers). Made of soft, elastic latex, they feel comfortable even after hours of wear. Their extended cuff offers keep wrists and forearms protected in the event of a splash when handling hazardous materials such as paints, solvents or cleansers. Textured fingers prevent slips when handling tools and materials.</p>
+<p>These tough, blue gloves meet the emergency medical glove requirements set forth by the National Fire Protection Association (NFPA 1999). Designed with advanced materials formulations and proprietary technologies, these disposable gloves offer unique benefits like superior dexterity and grip, enhanced chemical resistance, and improved hand health.</p>
+<p>Sizes range from small to XL. Sold in boxes of 100.</p>
+<p> </p>
+<p>***Due to shortage of supply, we cannot guarantee the color or box of the gloves being shipped will be as illustrated. We can only guarantee that you will receive the right size and type of glove as per your order.</p>
+<ul>
+<li><span>Powder Free</span></li>
+<li><span>Latex Free</span></li>
+<li><span>Textured Fingertips</span></li>
+<li><span>Medical, Food &amp; Home uses</span></li>
+<li><span>Strong and tear resistant</span></li>
+<li><span>Cool Blue Color</span></li>
+<li><span>Ambidextrous</span></li>
+<li><span>Enhanced Comfort</span></li>
+<li><span>Sizes from small to extra large</span></li>
+<li><span>Brand and colour may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Small</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedS-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Medium</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedM-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Large</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>5 Box Pack / Extra Large</title>
+      <s:price currency="CAD">124.95</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Small</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedS-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Medium</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedM-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Large</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>10 Box Pack / Extra Large</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Small</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedS-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Medium</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedM-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Large</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>25 Box Pack / Extra Large</title>
+      <s:price currency="CAD">574.99</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Small</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedS-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Medium</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedM-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Large</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>50 Box Pack / Extra Large</title>
+      <s:price currency="CAD">1099.49</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Small</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedS-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Medium</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedM-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527015227555</id>
+      <title>100 Box Pack / Extra Large</title>
+      <s:price currency="CAD">2098.99</s:price>
+      <s:sku>Glvs-NitrGloveMedXL-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/6065558945955</id>
+    <published>2021-02-07T19:05:59-05:00</published>
+    <updated>2021-02-07T19:05:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-astm-level-3-medical-mask"/>
+    <title>3 PLY ASTM Level 3 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_362a8270-0f03-4d80-a42b-802b7994a94c.jpg?v=1612742761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            143.75 - 999.59
+            <a href="https://www.feelpure.ca/products/3-ply-astm-level-3-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 99.4%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spread: Class 1</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 3</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results</s:tag>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku>MASK-L3MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>10 Box Pack</title>
+      <s:price currency="CAD">274.89</s:price>
+      <s:sku>MASK-L3MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>20 Box Pack</title>
+      <s:price currency="CAD">524.99</s:price>
+      <s:sku>MASK-L3MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>40 Box Pack</title>
+      <s:price currency="CAD">999.59</s:price>
+      <s:sku>MASK-L3MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527147675811</id>
+    <published>2021-02-07T18:56:59-05:00</published>
+    <updated>2021-02-07T18:56:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/medical-goggles-1"/>
+    <title>Medical Goggles</title>
+    <s:type>Goggles</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/goggles-1.jpg?v=1612742243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Goggles<br>
+        <strong>Price: </strong>
+            69.65 - 317.99
+            <a href="https://www.feelpure.ca/products/medical-goggles-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The goggles provide a full, unobstructed field of vision and can be worn with most half-mask respirators.</p>
+<p>The transparent protective PVC body permits a comfortable fit over prescription eyewear while protecting against impact and liquid splash hazards.</p>
+<ul>
+<li>Frame: Silicone</li>
+<li>Lens: Resin</li>
+<li>Anti Smog</li>
+<li>Anti Dust</li>
+<li>Anti Sling</li>
+<li>Anti Impact</li>
+<li>Anti Fog</li>
+<li>UV Protection</li>
+<li>With CE and FDA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>35 Goggles</title>
+      <s:price currency="CAD">69.65</s:price>
+      <s:sku>Shld-MedGoggle-035pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>100 Goggles</title>
+      <s:price currency="CAD">178.99</s:price>
+      <s:sku>Shld-MedGoggle-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>150 Goggles</title>
+      <s:price currency="CAD">253.49</s:price>
+      <s:sku>Shld-MedGoggle-150pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>200 Goggles</title>
+      <s:price currency="CAD">317.99</s:price>
+      <s:sku>Shld-MedGoggle-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527940497571</id>
+    <published>2021-02-02T15:39:40-05:00</published>
+    <updated>2021-02-02T15:39:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-astm-level-2-medical-mask"/>
+    <title>3 PLY ASTM Level 2 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1.jpg?v=1612742706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            118.75 - 799.59
+            <a href="https://www.feelpure.ca/products/3-ply-astm-level-2-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 99.4%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spread: Class 1</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 2</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results</s:tag>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">118.75</s:price>
+      <s:sku>MASK-L2MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>10 Box Pack</title>
+      <s:price currency="CAD">224.90</s:price>
+      <s:sku>MASK-L2MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>20 Box Pack</title>
+      <s:price currency="CAD">424.99</s:price>
+      <s:sku>MASK-L2MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>40 Box Pack</title>
+      <s:price currency="CAD">799.59</s:price>
+      <s:sku>MASK-L2MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5892638965923</id>
+    <published>2020-12-04T00:25:23-05:00</published>
+    <updated>2020-12-04T00:25:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/disposible-gowns-cpe-material"/>
+    <title>Disposable Gowns CPE material</title>
+    <s:type>Gowns &amp; Coveralls</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/DisposableGownsCPEmaterial_1.jpg?v=1612742365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gowns &amp; Coveralls<br>
+        <strong>Price: </strong>
+            14.95 - 372.49
+            <a href="https://www.feelpure.ca/products/disposible-gowns-cpe-material">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>5 pc pack</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>Gown-DispCPEGown-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>10 pc pack</title>
+      <s:price currency="CAD">24.90</s:price>
+      <s:sku>Gown-DispCPEGown-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>25 pc pack</title>
+      <s:price currency="CAD">57.25</s:price>
+      <s:sku>Gown-DispCPEGown-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>50 pc pack</title>
+      <s:price currency="CAD">99.49</s:price>
+      <s:sku>Gown-DispCPEGown-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>100 pc pack</title>
+      <s:price currency="CAD">178.99</s:price>
+      <s:sku>Gown-DispCPEGown-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>250 pc pack</title>
+      <s:price currency="CAD">372.49</s:price>
+      <s:sku>Gown-DispCPEGown-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5905388601507</id>
+    <published>2020-12-03T23:44:58-05:00</published>
+    <updated>2020-12-03T23:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/feel-pure-blue-black-3ply-premium-comfort-masks"/>
+    <title>Feel Pure Blue &amp; Black 3PLY Premium Comfort Masks</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/feelpure-masks_blue_manequin1_6ff0ad9e-f53c-42fc-9b3b-788024e1cd05.jpg?v=1613083002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            27.45 - 1395.99
+            <a href="https://www.feelpure.ca/products/feel-pure-blue-black-3ply-premium-comfort-masks">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Masks are made with a form-fitting pliable nose and chin band.</p>
+<ul>
+<li>99% of Bacteria Filtration Efficiency </li>
+<li>Quantity per box: 50 pcs  </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CivilMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>5 Box Pack / Blue</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>Mask-FPMaskBlu-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>5 Box Pack / Black</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>Mask-FPMaskBlk-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>20 Box Pack / Blue</title>
+      <s:price currency="CAD">99.80</s:price>
+      <s:sku>Mask-FPMaskBlu-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>20 Box Pack / Black</title>
+      <s:price currency="CAD">99.80</s:price>
+      <s:sku>Mask-FPMaskBlk-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>40 Box Pack / Blue</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>Mask-FPMaskBlu-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>40 Box Pack / Black</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>Mask-FPMaskBlk-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>200 Box Pack / Blue</title>
+      <s:price currency="CAD">797.99</s:price>
+      <s:sku>Mask-FPMaskBlu-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>200 Box Pack / Black</title>
+      <s:price currency="CAD">797.99</s:price>
+      <s:sku>Mask-FPMaskBlk-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>400 Box Pack / Blue</title>
+      <s:price currency="CAD">1395.99</s:price>
+      <s:sku>Mask-FPMaskBlu-400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5905388601507</id>
+      <title>400 Box Pack / Black</title>
+      <s:price currency="CAD">1395.99</s:price>
+      <s:sku>Mask-FPMaskBlk-400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527241425059</id>
+    <published>2020-12-03T20:49:21-05:00</published>
+    <updated>2020-12-03T20:49:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/1l-isopropyl-alcohol-1"/>
+    <title>1L Isopropyl Alcohol</title>
+    <s:type>Disinfectants &amp; Alcohol</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/1LIsopropylAlcohol_1bottle.jpg?v=1612741831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Disinfectants &amp; Alcohol<br>
+        <strong>Price: </strong>
+            103.44 - 2248.50
+            <a href="https://www.feelpure.ca/products/1l-isopropyl-alcohol-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MG Chemicals Isopropyl Alcohol Electronics Cleaner. Safe on most plastics. 99.9 Percent pure anhydrous.</p>
+<p>Meets Mil. spec. #TT-1-735A. <br>For use on: PC boards, connectors and contacts, semi-conductors, printed circuit boards, tape heads, light oils, office and medical equipment, relays, flux. <br>Color: Clear. <br>Purity: 99.9 percent by weight. <br>Refract. Index: 1.3766 (20 C.). <br>Water: 0.01 percent by weight. <br>Specific gravity: 0.7832 (25/25 C). <br>Nonvol: 0.0 mg/50mL. <br>Titratable acid: 0.13mL 02nNaOH. <br>Size: 945mL bottle.</p>
+<p>RoHS Compliant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>6 Bottles</title>
+      <s:price currency="CAD">103.44</s:price>
+      <s:sku>Alco-MGAlc1L-006pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>24 Bottles</title>
+      <s:price currency="CAD">395.76</s:price>
+      <s:sku>Alco-MGAlc1L-024pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>90 Bottles</title>
+      <s:price currency="CAD">1416.60</s:price>
+      <s:sku>Alco-MGAlc1L-090pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527241425059</id>
+      <title>150 Bottles</title>
+      <s:price currency="CAD">2248.50</s:price>
+      <s:sku>Alco-MGAlc1L-150pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5804874137763</id>
+    <published>2020-10-28T11:01:45-04:00</published>
+    <updated>2020-10-28T11:01:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/disposable-waterproof-isolation-gown"/>
+    <title>Disposable Waterproof Isolation Gown</title>
+    <s:type>Gowns &amp; Coveralls</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/DisposableWaterproofIsolationGown_1.jpg?v=1612742309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gowns &amp; Coveralls<br>
+        <strong>Price: </strong>
+            22.45 - 747.49
+            <a href="https://www.feelpure.ca/products/disposable-waterproof-isolation-gown">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The material is 40G PP non-woven fabrics with PE film covered, which is much thicker than the normal one, and it is waterproof and oil proof, the spec is 120*112cm.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Material: PP Non-woven fabrics with PE film </span></li>
+<li><span data-mce-fragment="1">Thick </span></li>
+<li><span data-mce-fragment="1">Waterproof and oil proof </span></li>
+<li><span data-mce-fragment="1">Dimensions: 120cm x 112cm</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>5 pc pack</title>
+      <s:price currency="CAD">22.45</s:price>
+      <s:sku>Gown-DispWPGown-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>10 pc pack</title>
+      <s:price currency="CAD">39.90</s:price>
+      <s:sku>Gown-DispWPGown-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>25 pc pack</title>
+      <s:price currency="CAD">93.75</s:price>
+      <s:sku>Gown-DispWPGown-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>50 pc pack</title>
+      <s:price currency="CAD">174.49</s:price>
+      <s:sku>Gown-DispWPGown-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>100 pc pack</title>
+      <s:price currency="CAD">324.99</s:price>
+      <s:sku>Gown-DispWPGown-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>250 pc pack</title>
+      <s:price currency="CAD">747.49</s:price>
+      <s:sku>Gown-DispWPGown-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5746235703459</id>
+    <published>2020-10-07T18:26:40-04:00</published>
+    <updated>2020-10-07T18:26:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/feel-pure-atomizer"/>
+    <title>Feel Pure Atomizer</title>
+    <s:type>Disinfectants &amp; Alcohol</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/FeelPureNeutralizer_1.jpg?v=1612741999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Disinfectants &amp; Alcohol<br>
+        <strong>Price: </strong>
+            159.98 - 599.90
+            <a href="https://www.feelpure.ca/products/feel-pure-atomizer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Feel Pure Atomizer is equipped with 6 strong UV blue light rays, effectively assisting the disinfecting function by destroying viruses and bacteria. The mist sprayer disperses the disinfectant liquid ingredients more effectively to kill bacteria.</span></p>
+<ul>
+<li><span data-mce-fragment="1">99.9% Disinfection Rate</span></li>
+<li><span data-mce-fragment="1">Large 800ml Capacity</span></li>
+<li><span data-mce-fragment="1">6 Strong UV Blue Light Rays</span></li>
+<li><span data-mce-fragment="1">Adjustable Sprayer</span></li>
+<li><span data-mce-fragment="1">Easy to Use</span></li>
+<li><span data-mce-fragment="1">Rechargeable</span></li>
+<li><span data-mce-fragment="1">99.9% Disinfection Rate</span></li>
+<li><span data-mce-fragment="1">Electrostatic Technology</span></li>
+<li><span data-mce-fragment="1">Perfect to Kill &amp; Stay Safe From Covid-19</span></li>
+<li><span data-mce-fragment="1">Peace of Mind</span></li>
+<li><span data-mce-fragment="1">Fast &amp; Effortless Sanitation</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5746235703459</id>
+      <title>2 Atomizers</title>
+      <s:price currency="CAD">159.98</s:price>
+      <s:sku>Alco-SprygnAtmzr-002pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5746235703459</id>
+      <title>5 Atomizers</title>
+      <s:price currency="CAD">349.95</s:price>
+      <s:sku>Alco-SprygnAtmzr-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5746235703459</id>
+      <title>10 Atomizers</title>
+      <s:price currency="CAD">599.90</s:price>
+      <s:sku>Alco-SprygnAtmzr-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5538206974115</id>
+    <published>2020-10-07T13:56:16-04:00</published>
+    <updated>2020-10-07T13:56:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/kids-disposable-3-ply-facemask"/>
+    <title>Kids Disposable 3 Ply Facemask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/kids.jpg?v=1612743382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            27.45 - 1395.99
+            <a href="https://www.feelpure.ca/products/kids-disposable-3-ply-facemask">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Not all masks are made the same! Our 3 Ply Kids Masks are made specially to fit kids' smaller faces to ensure proper protection and a comfortable fit.</span></p>
+<p><span>1 Box contains 50 Masks.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CivilMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">27.45</s:price>
+      <s:sku>Mask-3plyKidMask-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>1/2 Case - 20 Box Pack</title>
+      <s:price currency="CAD">99.79</s:price>
+      <s:sku>Mask-3plyKidMask-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>1 Case - 40 Boxes</title>
+      <s:price currency="CAD">179.59</s:price>
+      <s:sku>Mask-3plyKidMask-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>5 Cases - 200 Boxes</title>
+      <s:price currency="CAD">797.99</s:price>
+      <s:sku>Mask-3plyKidMask-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5538206974115</id>
+      <title>10 Cases - 400 Boxes</title>
+      <s:price currency="CAD">1395.99</s:price>
+      <s:sku>Mask-3plyKidMask-400pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5657540984995</id>
+    <published>2020-09-13T01:31:34-04:00</published>
+    <updated>2020-09-13T01:31:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/4-x-8-20-thou-thickness-petg-plastic-sheets"/>
+    <title>4’ x 8’ - 20 Thou Thickness, PETG Plastic Sheets</title>
+    <s:type>Retail</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/PETG-material.jpg?v=1611717910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Retail<br>
+        <strong>Price: </strong>
+            44.99 - 349.90
+            <a href="https://www.feelpure.ca/products/4-x-8-20-thou-thickness-petg-plastic-sheets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Specifications: </span></p>
+<ul>
+<li><span data-mce-fragment="1">Material: PETG </span></li>
+<li><span data-mce-fragment="1">Size: 4 foot by 8 foot </span></li>
+<li><span data-mce-fragment="1">Thickness: 20 Thou </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5657540984995</id>
+      <title>1 Sheet</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>PETG-001pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5657540984995</id>
+      <title>5 Sheets</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>PETG-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5657540984995</id>
+      <title>10 Sheets</title>
+      <s:price currency="CAD">349.90</s:price>
+      <s:sku>PETG-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527934599331</id>
+    <published>2020-09-04T14:09:28-04:00</published>
+    <updated>2020-09-04T14:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-level-1-medical-mask"/>
+    <title>3 PLY ASTM Level 1 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_2521b721-9ed8-463c-a897-a062ad6da61a.jpg?v=1612742644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            93.75 - 599.59
+            <a href="https://www.feelpure.ca/products/3-ply-level-1-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 95%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 1</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>5 Boxes</title>
+      <s:price currency="CAD">93.75</s:price>
+      <s:sku>MASK-L1MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>10 Boxes</title>
+      <s:price currency="CAD">174.89</s:price>
+      <s:sku>MASK-L1MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>20 Boxes</title>
+      <s:price currency="CAD">324.99</s:price>
+      <s:sku>MASK-L1MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>40 Boxes</title>
+      <s:price currency="CAD">599.59</s:price>
+      <s:sku>MASK-L1MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5622758047907</id>
+    <published>2020-09-03T07:52:43-04:00</published>
+    <updated>2020-09-03T07:52:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/70-alcohol-wipe-pads-100-pcs-per-box"/>
+    <title>70% Alcohol Wipe pads 100/Pack</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/wipes_4.jpg?v=1612623485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            144.95 - 1099.60
+            <a href="https://www.feelpure.ca/products/70-alcohol-wipe-pads-100-pcs-per-box">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span data-mce-fragment="1"> Size: 6 x 3cm (x 50pcs)</span></li>
+<li><span data-mce-fragment="1">70% Isopropyl Alcohol</span></li>
+<li><span data-mce-fragment="1">Quantity: 100 wipes per pack</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>5 Box pack</title>
+      <s:price currency="CAD">144.95</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>10 Box pack</title>
+      <s:price currency="CAD">284.90</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>20 Box pack</title>
+      <s:price currency="CAD">559.80</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5622758047907</id>
+      <title>40 Box pack</title>
+      <s:price currency="CAD">1099.60</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE100-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5594857799843</id>
+    <published>2020-08-26T16:30:34-04:00</published>
+    <updated>2020-08-26T16:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/steriwipes-virucidal-wipes-disenfectant-wipes-no-fregrance-160-wipes-per-tub"/>
+    <title>SteriWipes Virucidal Wipes Disenfectant wipes no Fragrance 160 wipes per tub</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/steri-1_f51cf77d-7b66-4cdb-afd0-661ae1dccf80.jpg?v=1612745193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            99.95 - 1798.99
+            <a href="https://www.feelpure.ca/products/steriwipes-virucidal-wipes-disenfectant-wipes-no-fregrance-160-wipes-per-tub">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>160 wipes per tub</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Kills Viruses And Bacteria, Formulated for a wide variety of disinfection &amp; sanitation applications including: Hospitals, Veterinary clinics, food processing plants &amp; food prep areas. Transportation related equipment &amp; Other public contract settings, fragrance free/ Alcohol free"}' data-sheets-userformat='{"2":895,"3":{"1":0},"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"11":4,"12":0}'>easy open dispenser top</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>5 Tub Pack</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>Wipe-SteriWipe160-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>10 Tub Pack</title>
+      <s:price currency="CAD">194.90</s:price>
+      <s:sku>Wipe-SteriWipe160-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>25 Tub Pack</title>
+      <s:price currency="CAD">474.75</s:price>
+      <s:sku>Wipe-SteriWipe160-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>50 Tub Pack</title>
+      <s:price currency="CAD">924.49</s:price>
+      <s:sku>Wipe-SteriWipe160-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5594857799843</id>
+      <title>100 Tub Pack</title>
+      <s:price currency="CAD">1798.99</s:price>
+      <s:sku>Wipe-SteriWipe160-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5559382245539</id>
+    <published>2020-08-18T18:01:15-04:00</published>
+    <updated>2020-08-18T18:01:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/e-co-70-isopropyl-alcohol-cleaning-wipes-50-box"/>
+    <title>E-Co 70% Isopropyl Alcohol Cleaning Wipes 50/Box</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/alcohol-wipes1.jpg?v=1612623463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            83.70 - 519.60
+            <a href="https://www.feelpure.ca/products/e-co-70-isopropyl-alcohol-cleaning-wipes-50-box">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Size:</strong> 5" x 6" (x 50pcs)</span></p>
+<p><span>70% Isopropyl Alcohol</span></p>
+<p><span><strong>Quantity:</strong> 50 wipes per pack</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>5 Box pack</title>
+      <s:price currency="CAD">83.70</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>10 Box pack</title>
+      <s:price currency="CAD">154.90</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>20 Box pack</title>
+      <s:price currency="CAD">284.80</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-020pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5559382245539</id>
+      <title>40 Box pack</title>
+      <s:price currency="CAD">519.60</s:price>
+      <s:sku>Wipe-70%ISOALCWIPE50-040pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

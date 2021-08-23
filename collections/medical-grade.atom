@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/medical-grade.atom"/>
+  <title>Feel Pure</title>
+  <updated>2021-02-07T19:05:59-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/6065558945955</id>
+    <published>2021-02-07T19:05:59-05:00</published>
+    <updated>2021-02-07T19:05:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-astm-level-3-medical-mask"/>
+    <title>3 PLY ASTM Level 3 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_362a8270-0f03-4d80-a42b-802b7994a94c.jpg?v=1612742761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            143.75 - 999.59
+            <a href="https://www.feelpure.ca/products/3-ply-astm-level-3-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 99.4%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spread: Class 1</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 3</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results</s:tag>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku>MASK-L3MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>10 Box Pack</title>
+      <s:price currency="CAD">274.89</s:price>
+      <s:sku>MASK-L3MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>20 Box Pack</title>
+      <s:price currency="CAD">524.99</s:price>
+      <s:sku>MASK-L3MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/6065558945955</id>
+      <title>40 Box Pack</title>
+      <s:price currency="CAD">999.59</s:price>
+      <s:sku>MASK-L3MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527940497571</id>
+    <published>2021-02-02T15:39:40-05:00</published>
+    <updated>2021-02-02T15:39:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-astm-level-2-medical-mask"/>
+    <title>3 PLY ASTM Level 2 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1.jpg?v=1612742706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            118.75 - 799.59
+            <a href="https://www.feelpure.ca/products/3-ply-astm-level-2-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 99.4%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>ASTM F1862/F1862M-17</li>
+<li>Synthetic blood penetration: 120mmHg ASTM F2100-19</li>
+<li>Differential Pressure: &lt;5.0mm H2O 16 CFR 1610</li>
+<li>Flame Spread: Class 1</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 2</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:test-results</s:tag>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>5 Box Pack</title>
+      <s:price currency="CAD">118.75</s:price>
+      <s:sku>MASK-L2MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>10 Box Pack</title>
+      <s:price currency="CAD">224.90</s:price>
+      <s:sku>MASK-L2MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>20 Box Pack</title>
+      <s:price currency="CAD">424.99</s:price>
+      <s:sku>MASK-L2MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527940497571</id>
+      <title>40 Box Pack</title>
+      <s:price currency="CAD">799.59</s:price>
+      <s:sku>MASK-L2MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527934599331</id>
+    <published>2020-09-04T14:09:28-04:00</published>
+    <updated>2020-09-04T14:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/3-ply-level-1-medical-mask"/>
+    <title>3 PLY ASTM Level 1 Medical Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/facem-1_2521b721-9ed8-463c-a897-a062ad6da61a.jpg?v=1612742644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            93.75 - 599.59
+            <a href="https://www.feelpure.ca/products/3-ply-level-1-medical-mask">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 Layers Surgical Medical Mask</li>
+<li>Product executive standard: YY0469-2011</li>
+<li>Dimensions: 17.5cm x 9.5cm</li>
+<li>Moderate Fluid Resistance: 120mmHg</li>
+<li>BFE &gt; 95%</li>
+<li>Total Bacterial Colonies: 0</li>
+<li>Testing Standard: ASTM</li>
+<li>Testing Result: Level 1</li>
+<li>Quantity per box: 50 pcs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MedicalMask</s:tag>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>5 Boxes</title>
+      <s:price currency="CAD">93.75</s:price>
+      <s:sku>MASK-L1MASK-005PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>10 Boxes</title>
+      <s:price currency="CAD">174.89</s:price>
+      <s:sku>MASK-L1MASK-010PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>20 Boxes</title>
+      <s:price currency="CAD">324.99</s:price>
+      <s:sku>MASK-L1MASK-020PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527934599331</id>
+      <title>40 Boxes</title>
+      <s:price currency="CAD">599.59</s:price>
+      <s:sku>MASK-L1MASK-040PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

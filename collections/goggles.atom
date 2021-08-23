@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/goggles.atom"/>
+  <title>Feel Pure</title>
+  <updated>2021-02-07T18:56:59-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5527147675811</id>
+    <published>2021-02-07T18:56:59-05:00</published>
+    <updated>2021-02-07T18:56:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/medical-goggles-1"/>
+    <title>Medical Goggles</title>
+    <s:type>Goggles</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/goggles-1.jpg?v=1612742243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Goggles<br>
+        <strong>Price: </strong>
+            69.65 - 317.99
+            <a href="https://www.feelpure.ca/products/medical-goggles-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The goggles provide a full, unobstructed field of vision and can be worn with most half-mask respirators.</p>
+<p>The transparent protective PVC body permits a comfortable fit over prescription eyewear while protecting against impact and liquid splash hazards.</p>
+<ul>
+<li>Frame: Silicone</li>
+<li>Lens: Resin</li>
+<li>Anti Smog</li>
+<li>Anti Dust</li>
+<li>Anti Sling</li>
+<li>Anti Impact</li>
+<li>Anti Fog</li>
+<li>UV Protection</li>
+<li>With CE and FDA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>35 Goggles</title>
+      <s:price currency="CAD">69.65</s:price>
+      <s:sku>Shld-MedGoggle-035pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>100 Goggles</title>
+      <s:price currency="CAD">178.99</s:price>
+      <s:sku>Shld-MedGoggle-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>150 Goggles</title>
+      <s:price currency="CAD">253.49</s:price>
+      <s:sku>Shld-MedGoggle-150pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5527147675811</id>
+      <title>200 Goggles</title>
+      <s:price currency="CAD">317.99</s:price>
+      <s:sku>Shld-MedGoggle-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

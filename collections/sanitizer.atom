@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/sanitizer.atom"/>
+  <title>Feel Pure</title>
+  <updated>2021-02-09T19:06:18-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5529143050403</id>
+    <published>2021-02-09T19:06:18-05:00</published>
+    <updated>2021-02-09T19:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/germs-be-gone-60-ml-hand-sanitizer"/>
+    <title>Germs Be Gone 60 ML Hand Sanitizer</title>
+    <s:type>Sanitizer</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/germs-be-gone-2oz.jpg?v=1612915471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Sanitizer<br>
+        <strong>Price: </strong>
+            119.99 - 1823.99
+            <a href="https://www.feelpure.ca/products/germs-be-gone-60-ml-hand-sanitizer">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Germs Be Gone Hand Sanitizer contains 65% ethyl alcohol and is enriched with Aloe &amp; Vitamin E to kills germs on contact. Prevent catching or spreading colds and flu with Hand Sanitizer, ideal for travel and when you cannot wash your hands. Use regularly clean hands and kill 99.99% germs and bacteria instantly. Say no to sticky residue and hello to soft and smooth hands!</p>
+<p>Apply a sufficient amount of the hand sanitizer to your hands, rub in well and allow your hands to dry. The quick-drying formula leaves your hands clean, fresh and germ-free. Children under 6 years of age should be supervised when using this product.</p>
+<p>Health Canada Approved &amp; Licenced Natural Product Number (NPN): 80021511</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>1 Case (96 Bottles)</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>SANI-GBG2OZ-096PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>5 Cases (480 Bottles)</title>
+      <s:price currency="CAD">551.99</s:price>
+      <s:sku>SANI-GBG2OZ-480PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>10 Cases (960 Bottles)</title>
+      <s:price currency="CAD">1007.99</s:price>
+      <s:sku>SANI-GBG2OZ-960PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529143050403</id>
+      <title>20 Cases (1,920 Bottles)</title>
+      <s:price currency="CAD">1823.99</s:price>
+      <s:sku>SANI-GBG2OZ-1920PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5529235194019</id>
+    <published>2020-08-12T06:23:53-04:00</published>
+    <updated>2020-08-12T06:23:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/germs-be-gone-236-ml-hand-sanitizer"/>
+    <title>Germs Be Gone 236 ML Hand Sanitizer</title>
+    <s:type>Sanitizer</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/new-germs-be-gone_1_no-pump.jpg?v=1612743988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Sanitizer<br>
+        <strong>Price: </strong>
+            14.25 - 2678.40
+            <a href="https://www.feelpure.ca/products/germs-be-gone-236-ml-hand-sanitizer">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Germs Be Gone Hand Sanitizer contains 75% ethyl alcohol and is enriched with Aloe &amp; Vitamin E to kill germs on contact. Prevent catching or spreading colds and flu with Hand Sanitizer, ideal for travel, and when you cannot wash your hands. Use regularly clean hands and kill 99.99% of germs and bacteria instantly. Say no to sticky residue and hello to soft and smooth hands!</p>
+<p>Apply a sufficient amount of the hand sanitizer to your hands, rub in well, and allow your hands to dry. The quick-drying formula leaves your hands clean, fresh, and germ-free. Children under 6 years of age should be supervised when using this product.</p>
+<ul>
+<li>Made in Canada</li>
+<li>Size: 236ML – 8OZ</li>
+<li>Kills 99.99% of bacteria fast </li>
+<li>75% Ethyl Alcohol</li>
+<li>Enriched with Aloe &amp; Vitamin E</li>
+<li>Antiseptic</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>3 Bottles / Pump Cap</title>
+      <s:price currency="CAD">15.15</s:price>
+      <s:sku>Sani-GBG8oz75p-003PCS-P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>3 Bottles / Squeeze Cap</title>
+      <s:price currency="CAD">14.25</s:price>
+      <s:sku>Sani-GBG8oz75p-003PCS-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>1 Case (24 Bottles) / Pump Cap</title>
+      <s:price currency="CAD">90.96</s:price>
+      <s:sku>Sani-GBG8oz75p-024PCS-P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>1 Case (24 Bottles) / Squeeze Cap</title>
+      <s:price currency="CAD">83.76</s:price>
+      <s:sku>Sani-GBG8oz75p-024PCS-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>10 Cases (240 Bottles) / Pump Cap</title>
+      <s:price currency="CAD">789.60</s:price>
+      <s:sku>Sani-GBG8oz75p-240PCS-P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>10 Cases (240 Bottles) / Squeeze Cap</title>
+      <s:price currency="CAD">717.60</s:price>
+      <s:sku>Sani-GBG8oz75p-240PCS-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>20 Cases (480 Bottles) / Pump Cap</title>
+      <s:price currency="CAD">1463.99</s:price>
+      <s:sku>Sani-GBG8oz75p-480PCS-P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>20 Cases (480 Bottles) / Squeeze Cap</title>
+      <s:price currency="CAD">1319.99</s:price>
+      <s:sku>Sani-GBG8oz75p-480PCS-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>40 Cases (960 Bottles) / Pump Cap</title>
+      <s:price currency="CAD">2678.40</s:price>
+      <s:sku>Sani-GBG8oz75p-960PCS-P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5529235194019</id>
+      <title>40 Cases (960 Bottles) / Squeeze Cap</title>
+      <s:price currency="CAD">2390.40</s:price>
+      <s:sku>Sani-GBG8oz75p-960PCS-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

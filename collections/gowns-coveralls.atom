@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.feelpure.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.feelpure.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.feelpure.ca/collections/gowns-coveralls.atom"/>
+  <title>Feel Pure</title>
+  <updated>2020-12-04T00:25:23-05:00</updated>
+  <author>
+    <name>Feel Pure</name>
+  </author>
+  <entry>
+    <id>https://www.feelpure.ca/products/5892638965923</id>
+    <published>2020-12-04T00:25:23-05:00</published>
+    <updated>2020-12-04T00:25:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/disposible-gowns-cpe-material"/>
+    <title>Disposable Gowns CPE material</title>
+    <s:type>Gowns &amp; Coveralls</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/DisposableGownsCPEmaterial_1.jpg?v=1612742365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gowns &amp; Coveralls<br>
+        <strong>Price: </strong>
+            14.95 - 372.49
+            <a href="https://www.feelpure.ca/products/disposible-gowns-cpe-material">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>5 pc pack</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>Gown-DispCPEGown-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>10 pc pack</title>
+      <s:price currency="CAD">24.90</s:price>
+      <s:sku>Gown-DispCPEGown-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>25 pc pack</title>
+      <s:price currency="CAD">57.25</s:price>
+      <s:sku>Gown-DispCPEGown-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>50 pc pack</title>
+      <s:price currency="CAD">99.49</s:price>
+      <s:sku>Gown-DispCPEGown-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>100 pc pack</title>
+      <s:price currency="CAD">178.99</s:price>
+      <s:sku>Gown-DispCPEGown-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5892638965923</id>
+      <title>250 pc pack</title>
+      <s:price currency="CAD">372.49</s:price>
+      <s:sku>Gown-DispCPEGown-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.feelpure.ca/products/5804874137763</id>
+    <published>2020-10-28T11:01:45-04:00</published>
+    <updated>2020-10-28T11:01:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.feelpure.ca/products/disposable-waterproof-isolation-gown"/>
+    <title>Disposable Waterproof Isolation Gown</title>
+    <s:type>Gowns &amp; Coveralls</s:type>
+    <s:vendor>FeelPureStore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0455/9578/7427/products/DisposableWaterproofIsolationGown_1.jpg?v=1612742309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FeelPureStore<br>
+        <strong>Type: </strong>Gowns &amp; Coveralls<br>
+        <strong>Price: </strong>
+            22.45 - 747.49
+            <a href="https://www.feelpure.ca/products/disposable-waterproof-isolation-gown">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The material is 40G PP non-woven fabrics with PE film covered, which is much thicker than the normal one, and it is waterproof and oil proof, the spec is 120*112cm.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Material: PP Non-woven fabrics with PE film </span></li>
+<li><span data-mce-fragment="1">Thick </span></li>
+<li><span data-mce-fragment="1">Waterproof and oil proof </span></li>
+<li><span data-mce-fragment="1">Dimensions: 120cm x 112cm</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>5 pc pack</title>
+      <s:price currency="CAD">22.45</s:price>
+      <s:sku>Gown-DispWPGown-005pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>10 pc pack</title>
+      <s:price currency="CAD">39.90</s:price>
+      <s:sku>Gown-DispWPGown-010pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>25 pc pack</title>
+      <s:price currency="CAD">93.75</s:price>
+      <s:sku>Gown-DispWPGown-025pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>50 pc pack</title>
+      <s:price currency="CAD">174.49</s:price>
+      <s:sku>Gown-DispWPGown-050pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>100 pc pack</title>
+      <s:price currency="CAD">324.99</s:price>
+      <s:sku>Gown-DispWPGown-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.feelpure.ca/products/5804874137763</id>
+      <title>250 pc pack</title>
+      <s:price currency="CAD">747.49</s:price>
+      <s:sku>Gown-DispWPGown-250pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
